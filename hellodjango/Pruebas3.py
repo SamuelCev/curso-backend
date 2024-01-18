@@ -1,0 +1,1 @@
+from pruebas2 import producto
